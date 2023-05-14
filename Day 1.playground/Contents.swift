@@ -94,3 +94,6 @@ let age = 26
 // \(variable) just like in Python
 let message1 = "Helo my name is \(singer) and I'm \(age) years old"
 print(message1)
+
+// End of day 1 videos
+
